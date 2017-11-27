@@ -37,8 +37,16 @@ Riled Lucy
 
 Infernal Staff
 -------
-![Fire Staff](https://vignette.wikia.nocookie.net/dont-starve-game/images/1/10/Fire_Staff.png/revision/latest?cb=20130314190529)x1, ![enter image description here](https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Bone_Shards.png/revision/latest?cb=20140228093221)x2, ![Scales](https://vignette.wikia.nocookie.net/dont-starve-game/images/9/90/Scales.png/revision/latest?cb=20140417075617)x2&emsp; **→**&emsp;![Tier 2](https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7e/Alchemy_Engine.png/revision/latest/scale-to-width-down/42?cb=20140414111513)&emsp; **→**&emsp;![enter image description here](https://vignette.wikia.nocookie.net/dont-starve-game/images/3/34/Infernal_Staff.png/revision/latest?cb=20171025162827)
+![Fire Staff](https://vignette.wikia.nocookie.net/dont-starve-game/images/1/10/Fire_Staff.png/revision/latest?cb=20130314190529)x1, ![Bone Shards](https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Bone_Shards.png/revision/latest?cb=20140228093221)x2, ![Scales](https://vignette.wikia.nocookie.net/dont-starve-game/images/9/90/Scales.png/revision/latest?cb=20140417075617)x2&emsp; **→**&emsp;![Tier 2](https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7e/Alchemy_Engine.png/revision/latest/scale-to-width-down/42?cb=20140414111513)&emsp; **→**&emsp;![Infernal Staff](https://vignette.wikia.nocookie.net/dont-starve-game/images/3/34/Infernal_Staff.png/revision/latest?cb=20171025162827)
 
 Life Staff
 -------
 ![Spear](https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4f/Spear.png/revision/latest?cb=20121216143213)x1, ![Petals](https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d8/Petals.png/revision/latest?cb=20121216131625)x20, ![Twigs](https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png/revision/latest?cb=20121216104433)x3&emsp; **→**&emsp;![Tier 2](https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7e/Alchemy_Engine.png/revision/latest/scale-to-width-down/42?cb=20140414111513)&emsp; **→**&emsp;![Life Staff](https://vignette.wikia.nocookie.net/dont-starve-game/images/9/95/Living_Staff.png/revision/latest?cb=20171025161318)
+
+Petrifying Tome
+-------
+![Papyrus](https://vignette.wikia.nocookie.net/dont-starve-game/images/1/12/Papyrus.png/revision/latest?cb=20121216103422)x3, ![Fossil Fragment](https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1f/Fossils.png/revision/latest?cb=20161016001936)x1&emsp; **→**&emsp;![Tier 2](https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7e/Alchemy_Engine.png/revision/latest/scale-to-width-down/42?cb=20140414111513)&emsp; **→**&emsp;![Petrifying Tome](https://vignette.wikia.nocookie.net/dont-starve-game/images/6/69/Petrifying_Tome.png/revision/latest?cb=20171025162842)
+
+Tome of Beckoning
+-------
+![Petrifying Tome](https://vignette.wikia.nocookie.net/dont-starve-game/images/6/69/Petrifying_Tome.png/revision/latest?cb=20171025162842)x1, ![Papyrus](https://vignette.wikia.nocookie.net/dont-starve-game/images/1/12/Papyrus.png/revision/latest?cb=20121216103422)x3, ![Scales](https://vignette.wikia.nocookie.net/dont-starve-game/images/9/90/Scales.png/revision/latest?cb=20140417075617)x2&emsp; **→**&emsp;![Tier 2](https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7e/Alchemy_Engine.png/revision/latest/scale-to-width-down/42?cb=20140414111513)&emsp; **→**&emsp;![Tome of Beckoning](https://vignette.wikia.nocookie.net/dont-starve-game/images/8/8a/Tome_of_Beckoning.png/revision/latest?cb=20171109213444)

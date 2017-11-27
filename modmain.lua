@@ -86,7 +86,7 @@ AddRecipe("lavaarena_lucy", {Ingredient("lucy", 1)}, forgetab, TECH.SCIENCE_TWO,
 AddRecipe("fireballstaff", {Ingredient("firestaff", 1), Ingredient("boneshard", 2), Ingredient("dragon_scales", 2)}, forgetab, TECH.SCIENCE_TWO, nil, nil, nil, nil, nil, "images/inventoryimages/fireballstaff.xml", "fireballstaff.tex")
 AddRecipe("healingstaff", {Ingredient("spear", 1), Ingredient("petals", 20), Ingredient("twigs", 3)}, forgetab, TECH.SCIENCE_TWO, nil, nil, nil, nil, nil, "images/inventoryimages/healingstaff.xml", "healingstaff.tex")
 AddRecipe("book_fossil", {Ingredient("papyrus", 3), Ingredient("fossil_piece", 1)}, forgetab, TECH.SCIENCE_TWO, nil, nil, nil, nil, nil, "images/inventoryimages/book_fossil.xml", "book_fossil.tex")
-AddRecipe("book_elemental", {Ingredient("book_fossil", 1), Ingredient("papyrus", 3), Ingredient("redgem", 2)}, forgetab, TECH.SCIENCE_TWO, nil, nil, nil, nil, nil, "images/inventoryimages/book_elemental.xml", "book_elemental.tex")
+AddRecipe("book_elemental", {Ingredient("book_fossil", 1), Ingredient("papyrus", 3), Ingredient("dragon_scales", 2)}, forgetab, TECH.SCIENCE_TWO, nil, nil, nil, nil, nil, "images/inventoryimages/book_elemental.xml", "book_elemental.tex")
 
 for name, data in pairs({
   ["lavaarena_armorlight"] = {
