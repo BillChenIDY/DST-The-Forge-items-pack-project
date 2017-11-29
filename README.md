@@ -2,7 +2,7 @@
 Don't Starve Together Mod collaboration project
 
 Hello developpers,
-The Forge event starts at the beginning of November and will end on November 30, 2017. This mod aims to make every The Forge items compatible for normal DST worlds.
+The Forge event starts at the beginning of November and ends on December 4, 2017. This mod aims to make every The Forge items compatible for normal DST worlds.
 
 You can get the code and help us to make it.
 
