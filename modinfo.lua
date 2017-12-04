@@ -3,7 +3,7 @@ description = "Add DST The Forge event's items to the game."
 author      = "Aire Ayquaza"
 version     = "0.1.0a"
 
-forumthread = ""
+forumthread = "/topic/85067-mod-collaboration-the-forge-items-pack/"
 
 api_version = 10
 
