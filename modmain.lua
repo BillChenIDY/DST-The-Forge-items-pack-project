@@ -46,34 +46,34 @@ PrefabsFiles =
 	"hats_lavaarena",
 }
 
-STRINGS.RECIPE_DESC.BLOWDART_LAVA  = "[WIP]Darts from The Forge event"
-STRINGS.RECIPE_DESC.BLOWDART_LAVA2 = "[WIP]Molten Darts from The Forge event"
-STRINGS.RECIPE_DESC.FIREBALLSTAFF  = "[WIP]Infernal Staff from The Forge event"
-STRINGS.RECIPE_DESC.HEALINGSTAFF   = "[WIP]Living Staff from The Forge event"
-STRINGS.RECIPE_DESC.HAMMER_MJOLNIR = "[WIP]Forging Hammer from The Forge event"
-STRINGS.RECIPE_DESC.SPEAR_GUNGNIR  = "[WIP]Pith Pike from The Forge event"
-STRINGS.RECIPE_DESC.SPEAR_LANCE    = "[WIP]Spiral Spear from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_LUCY = "[WIP]Riled Lucy from The Forge event"
-STRINGS.RECIPE_DESC.BOOK_FOSSIL    = "[WIP]Petrifying Tome from The Forge event"
-STRINGS.RECIPE_DESC.BOOK_ELEMENTAL = "[WIP]Tome of Beckoning from The Forge event"
+STRINGS.RECIPE_DESC.BLOWDART_LAVA  = "[WIP]Darts from The Forge event"  --[WIP吹箭：来自熔炉事件的吹箭
+STRINGS.RECIPE_DESC.BLOWDART_LAVA2 = "[WIP]Molten Darts from The Forge event"  --[WIP]来自熔炉事件的熔岩吹箭
+STRINGS.RECIPE_DESC.FIREBALLSTAFF  = "[WIP]Infernal Staff from The Forge event"  --[WIP]来自熔炉事件的地狱法杖
+STRINGS.RECIPE_DESC.HEALINGSTAFF   = "[WIP]Living Staff from The Forge event"  --[WIP]来自熔炉事件的守护法杖
+STRINGS.RECIPE_DESC.HAMMER_MJOLNIR = "[WIP]Forging Hammer from The Forge event"  --[WIP]来自熔炉事件的淬火战锤
+STRINGS.RECIPE_DESC.SPEAR_GUNGNIR  = "[WIP]Pith Pike from The Forge event"  --[WIP]来自熔炉事件的髓棘长矛
+STRINGS.RECIPE_DESC.SPEAR_LANCE    = "[WIP]Spiral Spear from The Forge event"  --[WIP]来自熔炉事件的螺旋枪
+STRINGS.RECIPE_DESC.LAVAARENA_LUCY = "[WIP]Riled Lucy from The Forge event"  --[WIP]来自熔炉事件的露西战斧
+STRINGS.RECIPE_DESC.BOOK_FOSSIL    = "[WIP]Petrifying Tome from The Forge event"  --[WIP]来自熔炉事件的石化魔典
+STRINGS.RECIPE_DESC.BOOK_ELEMENTAL = "[WIP]Tome of Beckoning from The Forge event"  --[WIP]来自熔炉事件的召唤
 
-STRINGS.RECIPE_DESC.LAVAARENA_ARMORLIGHT           = "[WIP]Reed Tunic from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_ARMORLIGHTSPEED      = "[WIP]Feathered Reed Tunic from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_ARMORMEDIUM          = "[WIP]Wood Armor from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_ARMORMEDIUMDAMAGER   = "[WIP]Jagged Wood Armor from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_ARMORMEDIUMRECHARGER = "[WIP]Silken Wood Armor from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_ARMORHEAVY           = "[WIP]Stone Splint Mail from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_ARMOREXTRAHEAVY      = "[WIP]Steadfast Stone Armor from The Forge event"
+STRINGS.RECIPE_DESC.LAVAARENA_ARMORLIGHT           = "[WIP]Reed Tunic from The Forge event"  --[WIP]来自熔炉事件的芦织外衣
+STRINGS.RECIPE_DESC.LAVAARENA_ARMORLIGHTSPEED      = "[WIP]Feathered Reed Tunic from The Forge event"  --[WIP]来自熔炉事件的芦羽蓑衣
+STRINGS.RECIPE_DESC.LAVAARENA_ARMORMEDIUM          = "[WIP]Wood Armor from The Forge event"  --[WIP]来自熔炉事件的木甲
+STRINGS.RECIPE_DESC.LAVAARENA_ARMORMEDIUMDAMAGER   = "[WIP]Jagged Wood Armor from The Forge event"  --[WIP]来自熔炉事件的锯齿木甲
+STRINGS.RECIPE_DESC.LAVAARENA_ARMORMEDIUMRECHARGER = "[WIP]Silken Wood Armor from The Forge event"  --[WIP]来自熔炉事件的丝带木甲
+STRINGS.RECIPE_DESC.LAVAARENA_ARMORHEAVY           = "[WIP]Stone Splint Mail from The Forge event"  --[WIP]来自熔炉事件的锁石甲
+STRINGS.RECIPE_DESC.LAVAARENA_ARMOREXTRAHEAVY      = "[WIP]Steadfast Stone Armor from The Forge event"  --[WIP]来自熔炉事件的磐石铠甲
 
-STRINGS.RECIPE_DESC.LAVAARENA_LIGHTDAMAGERHAT      = "[WIP]Barbed Helm from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_STRONGDAMAGERHAT     = "[WIP]Nox Helm from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_FEATHERCROWNHAT      = "[WIP]Feathered Wreath from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_RECHARGERHAT         = "[WIP]Crystal Tiara from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_HEALINGFLOWERHAT     = "[WIP]Flower Headband from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_TIARAFLOWERPETALSHAT = "[WIP]Woven Garland from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_EYECIRCLETHAT        = "[WIP]Clairvoyant Crown from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_CROWNDAMAGERHAT      = "[WIP]Resplendent Nox Helm from The Forge event"
-STRINGS.RECIPE_DESC.LAVAARENA_HEALINGGARLANDHAT    = "[WIP]Blossomed Wreath from The Forge event"
+STRINGS.RECIPE_DESC.LAVAARENA_LIGHTDAMAGERHAT      = "[WIP]Barbed Helm from The Forge event"  --[WIP]来自熔炉事件的斗士头盔
+STRINGS.RECIPE_DESC.LAVAARENA_STRONGDAMAGERHAT     = "[WIP]Nox Helm from The Forge event"  --[WIP]来自熔炉事件的诺克斯战盔
+STRINGS.RECIPE_DESC.LAVAARENA_FEATHERCROWNHAT      = "[WIP]Feathered Wreath from The Forge event"  --[WIP]来自熔炉事件的羽翼花冠
+STRINGS.RECIPE_DESC.LAVAARENA_RECHARGERHAT         = "[WIP]Crystal Tiara from The Forge event"  --[WIP]来自熔炉事件的水晶发冠
+STRINGS.RECIPE_DESC.LAVAARENA_HEALINGFLOWERHAT     = "[WIP]Flower Headband from The Forge event"  --[WIP]来自熔炉事件的蓝雪发带
+STRINGS.RECIPE_DESC.LAVAARENA_TIARAFLOWERPETALSHAT = "[WIP]Woven Garland from The Forge event"  --[WIP]来自熔炉事件的精编花环
+STRINGS.RECIPE_DESC.LAVAARENA_EYECIRCLETHAT        = "[WIP]Clairvoyant Crown from The Forge event"  --[WIP]来自熔炉事件的占卜之冠
+STRINGS.RECIPE_DESC.LAVAARENA_CROWNDAMAGERHAT      = "[WIP]Resplendent Nox Helm from The Forge event"  --[WIP]来自熔炉事件的锻金介胄
+STRINGS.RECIPE_DESC.LAVAARENA_HEALINGGARLANDHAT    = "[WIP]Blossomed Wreath from The Forge event"  --[WIP]来自熔炉事件的福佑花环
 
 local forgetab = AddRecipeTab("The Forge", 6, "images/tabimages/theforge_tab.xml", "theforge_tab.tex", nil)
 
